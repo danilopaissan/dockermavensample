@@ -1,5 +1,5 @@
 # Pull base image
-FROM tomcat:8.0.30-jre7
+FROM 9-jdk8-corretto
 
 # Maintainer
 MAINTAINER "ravindu@emojot.com"
